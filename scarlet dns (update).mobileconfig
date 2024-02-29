@@ -50,9 +50,9 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>https://discord.gg/pTmc8uEqJr </string>
+<string>NezusDNS - Update 2 - New DNS  </string>
 <key>PayloadDisplayName</key>
-<string>scarlet │ Best DNS</string>
+<string>NezusDNS │ Best DNS</string>
 <key>PayloadIdentifier</key>
 <string>nezus.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
