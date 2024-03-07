@@ -23,9 +23,9 @@
      <key>PayloadDisplayName</key>
      <string>Web Clip (Scarlet)</string>
      <key>PayloadIdentifier</key>
-     <string>scarlet</string>
+     <string>server scarlet</string>
      <key>PayloadOrganization</key>
-     <string>scarlet</string>
+     <string>https://discord.gg/pTmc8uEqJr</string>
      <key>PayloadType</key>
      <string>com.apple.webClip.managed</string>
      <key>PayloadUUID</key>
