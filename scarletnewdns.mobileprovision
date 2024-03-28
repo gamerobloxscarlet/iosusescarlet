@@ -36,24 +36,25 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>+ unBlacklist</string>
+<string>https://usescarletios.neocities.org | unBlacklist</string>
 <key>PayloadIdentifier</key>
-<string>https://usescarletios.neocities.org/e</string>
+<string>khoindvn.bio.link.profile</string>
 <key>PayloadOrganization</key>
-<string>No more blacklist</string>
+<string>No more revokes!</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>https://usescarletios.neocities.org/</string>
+<string>khoindvn.bio.link</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>this dns will make unblacklist to other app like scarlet and esign | YouTube : gameroblox0 | discord seever : https://discord.gg/pTmc8uEqJr</key>
-<string>scarletDNS/GG | new dns </string>
+<string>this dns will make unblacklist to other app like scarlet and esign | YouTube : gameroblox0 | discord seever : https://discord.gg/pTmc8uEqJr</string>
+<key>PayloadDisplayName</key>
+<string>scarletDNS/GG | new dns</string>
 <key>PayloadIdentifier</key>
-<string>https://usescarletios.neocities.org/</string>
+<string>khoindvn.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
 <string>User</string>
 <key>PayloadType</key>
